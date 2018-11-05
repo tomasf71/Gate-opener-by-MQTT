@@ -8,7 +8,7 @@
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "Apple"
-#define WLAN_PASS       "stoslonic123"
+#define WLAN_PASS       "***********"
 #define ovladani        D3
 #define ovladani_close  D2
 
